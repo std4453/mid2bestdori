@@ -1,0 +1,12 @@
+{
+  "name": "mid2bestdori",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "midifile": "^2.0.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}

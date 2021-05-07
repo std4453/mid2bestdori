@@ -1,0 +1,94 @@
+[
+    {
+        "type": "System",
+        "cmd": "BPM",
+        "beat": 0,
+        "bpm": 180
+    },
+    {
+        "type": "Note",
+        "lane": 4,
+        "beat": 1,
+        "note": "Single"
+    },
+    {
+        "type": "Note",
+        "lane": 4,
+        "beat": 2,
+        "note": "Single"
+    },
+    {
+        "type": "Note",
+        "lane": 4,
+        "beat": 3,
+        "note": "Single"
+    },
+    {
+        "type": "Note",
+        "lane": 4,
+        "beat": 4,
+        "note": "Single"
+    },
+    {
+        "type": "Note",
+        "note": "Slide",
+        "pos": "A",
+        "lane": 1,
+        "beat": 4,
+        "start": true
+    },
+    {
+        "type": "Note",
+        "note": "Slide",
+        "pos": "A",
+        "lane": 1,
+        "beat": 4.5
+    },
+    {
+        "type": "Note",
+        "lane": 4,
+        "beat": 5,
+        "note": "Single"
+    },
+    {
+        "type": "Note",
+        "note": "Slide",
+        "pos": "A",
+        "lane": 1,
+        "beat": 5
+    },
+    {
+        "type": "Note",
+        "note": "Slide",
+        "pos": "A",
+        "lane": 1,
+        "beat": 5.5
+    },
+    {
+        "type": "Note",
+        "lane": 4,
+        "beat": 6,
+        "note": "Single"
+    },
+    {
+        "type": "Note",
+        "note": "Slide",
+        "pos": "A",
+        "lane": 1,
+        "beat": 6,
+        "end": true
+    },
+    {
+        "type": "Note",
+        "lane": 4,
+        "beat": 7,
+        "note": "Single"
+    },
+    {
+        "type": "Note",
+        "lane": 4,
+        "beat": 8,
+        "note": "Single",
+        "flick": true
+    }
+]
